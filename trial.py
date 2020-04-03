@@ -59,3 +59,5 @@ autolabel(rects2)
 #调用函数
 
 plt.show()
+
+##Let's pretend that here is the last part of the program completed by YaoJiang2 
