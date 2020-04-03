@@ -55,3 +55,7 @@ def autolabel(rects):
         
 autolabel(rects1)
 autolabel(rects2)
+
+#调用函数
+
+plt.show()
